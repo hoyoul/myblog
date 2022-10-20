@@ -1,0 +1,4 @@
+[submodule "frege2godel_blog/public"]
+	path = frege2godel_blog/public
+	url = https://github.com/hoyoul/hoyoul.github.io.git
+	branch = main
