@@ -1,0 +1,4 @@
+baseURL = 'http://hoyoul.github.io'
+languageCode = 'en-us'
+title = 'Frege to Godel to Church and Me'
+theme = 'hugo-PaperMod'
